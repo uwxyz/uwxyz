@@ -1,16 +1,17 @@
-### Hi there 👋
+### Hi there 👋, Call me Manny
+#### I am a Front-End Dev Enthusiast
 
-<!--
-**uwxyz/uwxyz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Chat with me to know more about me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Skills: ANGULAR JS / REACT / JS / HTML / CSS
+
+- 🔭 I’m currently working on Product Management and Social Winter Hackathlon 
+- 🌱 I’m currently learning Python, JavaScript, CSS, C++, etc. 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/uwxyz)  
+
+
+  
+[![Manohar's GitHub stats](https://github-readme-stats.vercel.app/api?username=uwxyz)](https://github.com/uwxyz/github-readme-stats)
