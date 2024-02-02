@@ -4,12 +4,12 @@
   <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
 </div>
 
-<h1 align="center">Hi 👋 I am Abdul Vasay</h1>
+<h1 align="center">Hi 👋 My name is Prameel Manohar. Pls call me Manny</h1>
 
 <h3 align="center">Love exploring new things</h3>
 
 ---
-![banner](https://github.com/abdulvasay-234/abdulvasay-234/blob/main/img/Github%20(1).png)
+![banner](https://github.com/uwxyz/uwxyz/blob/main/Github%20(1).png)
 
 ## About:
 - 🔭 I’m currently working on **Machine Learning Algorithm**
@@ -31,16 +31,16 @@
 
 ## Additional info:
  <!-- <p>
-<img src="https://activity-graph.herokuapp.com/graph?username=afnanabdulvasay-234&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
+<img src="https://activity-graph.herokuapp.com/graph?username=uwxyz&bg_color=0f2d3d&color=1cadfb&line=1cadfb&point=1cadfb&area=true&hide_border=true">
 </p>
  -->
 
 
- <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact" alt="afnanabdulvasay-234" />
+ <img align="centre" src="https://github-readme-stats.vercel.app/api/top-langs?username=uwxyz&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact" alt="uwxyz" />
  
-<img src="https://github-readme-stats.vercel.app/api?username=abdulvasay-234&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact">
+<img src="https://github-readme-stats.vercel.app/api?username=uwxyz&bg_color=0f2d3d&color=1cadfb&theme=tokyonight&line&show_icons=true&locale=en&layout=compact">
 
 
 </p>
 
-[![Abdul vasay github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdulvasay-234&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Prameel Manohar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=uwxyz&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
